@@ -1,0 +1,4 @@
+chainHangAmount = 12.0
+maxChainRange = 10
+quality = 4
+showToolTip = true

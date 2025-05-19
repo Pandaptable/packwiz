@@ -1,12 +1,12 @@
 name = "Gambling Addict Manufacturing Pack"
 author = "nemmy"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5606bff892719a7900090bb00cbf9ee7359971e6ab3af785690a3e1a184ee097"
+hash = "f3babe34fce33edb270f93980e517243cf084138cca88978d9bd08a55bf4d38c"
 
 [versions]
 fabric = "0.16.14"

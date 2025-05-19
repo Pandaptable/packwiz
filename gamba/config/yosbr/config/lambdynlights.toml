@@ -1,0 +1,25 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "fancy"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "fancy"
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+[light_sources.settings.entities.minecraft]
+	glow_item_frame = false

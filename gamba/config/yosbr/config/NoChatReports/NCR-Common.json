@@ -1,0 +1,7 @@
+{
+	"demandOnClientMessage": "Install NCR dickhead </3",
+	"demandOnClient": true,
+	"convertToGameMessage": true,
+	"addQueryData": true,
+	"enableDebugLog": false
+}

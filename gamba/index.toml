@@ -1,6 +1,86 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "5a038101a250aa41d5741a149e7f0ff9c64c55c0956dc9345bb5d30af8cde3ab"
+
+[[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "7ee2a61665f4d570b5805e30666d8b23753739eba0f4948478a455ed13b83ad9"
+
+[[files]]
+file = "config/mod-loading-screen/config.txt"
+hash = "15c56b79da194e9810a5b8f83487aff184dceff4b1945cc4b6e41395ec6a7af5"
+
+[[files]]
+file = "config/mod-loading-screen/icon.png"
+hash = "a642cdae829b8898948c0cb6c9dfd4cb38b8b636618191e8ecfe87a5ad75318f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "5a030954eb61959ebee6ae2065ac65f201780463815403649d8bdf64f530c459"
+
+[[files]]
+file = "config/yosbr/config/carryon-common.json"
+hash = "785c35a72cab4cfdb866f03168eea539e0717b3c9b90ab59f36b6e425780c238"
+
+[[files]]
+file = "config/yosbr/config/connectiblechains.toml"
+hash = "72be009ff22f6c58c27f6d0c2438ec59d53570336ba0d5e59c0ce49c05d119d7"
+
+[[files]]
+file = "config/yosbr/config/endrem.json"
+hash = "f8c96c55de8149d671d9b68c2ffeda32863de1ab64c32e8ffb8bb23579af1c20"
+
+[[files]]
+file = "config/yosbr/config/invmove/unrecognized.json"
+hash = "f9a221abf0edfabe8839c7bfcdaa2ec2c853633529cbf3592bb9c9575cb36ae3"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "85f1a6583306aef4d9095fea573f4c0b909cbb4d3997e54a6799bf1247bc9d05"
+
+[[files]]
+file = "config/yosbr/config/particlerain.json5"
+hash = "5985c9f5a09cbe9eaa3c1168b83b55f6ab8801b1d066132326a18ec3e35f7720"
+
+[[files]]
+file = "config/yosbr/config/ping-wheel.json"
+hash = "06509ea6cf9af29ee38064ef51095ff0630607f2fc313f00939ebe427d53afff"
+
+[[files]]
+file = "config/yosbr/config/ping-wheel.server.json"
+hash = "1254ca29db1693b630418fc8a7aeb5a9c72661238ffe7b3f41c50f5bb7ec810c"
+
+[[files]]
+file = "config/yosbr/config/sit!/server-config.json"
+hash = "3902153b74681942a8e23991b99272e98c4461c7b81e4a2b9ddaa33f7dad3277"
+
+[[files]]
+file = "config/yosbr/config/valkyrienskies/vs_clockwork_server.json"
+hash = "a2c4d593cf0ab25dd77ad61e7371fb8463288583d2ceca05e17e7c5ea67af84c"
+
+[[files]]
+file = "config/yosbr/config/valkyrienskies/vs_common.json"
+hash = "3f5b97dfbbdabd094d3b3909da95fa59dac0c75f89f955c5fd1e33295f12ca8b"
+
+[[files]]
+file = "config/yosbr/config/valkyrienskies/vs_core_server.json"
+hash = "a82268dff015e406d87184b295b0c41258648d9561b32e862e6d0135c6a0e346"
+
+[[files]]
+file = "config/yosbr/config/valkyrienskies/vs_eureka_server.json"
+hash = "9d71aefcbf9c9d03172d7c5100b1dc73aa6555428048b756d0a55884c8d41f1b"
+
+[[files]]
+file = "config/yosbr/config/valkyrienskies/vs_server.json"
+hash = "12b193cfc993f18b5216aac5958e074dd1daa270d937a8a409a2728473e42fbf"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "ee36381fde450d2eff4e2771886d2210a4d4303c498d9b516808d7409bed6b18"
+
+[[files]]
 file = "datapacks/create-x-valkyrien-skies-clockwork-survival-support.pw.toml"
 hash = "912dd0e40c55f7b2d25a7774b20bb16ad64745bb4e4c2e1abe7a62c8598c4390"
 metafile = true
@@ -1294,3 +1374,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "969aaea085db4667029333643bd155a3abdc78fa1cf9c89673fd691d3d36c5ca"

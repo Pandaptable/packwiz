@@ -1374,7 +1374,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
-
-[[files]]
-file = "unsup.ini"
-hash = "969aaea085db4667029333643bd155a3abdc78fa1cf9c89673fd691d3d36c5ca"

@@ -1,0 +1,13 @@
+name = "Create: Interactive"
+filename = "create_interactive-1.1.1-beta.3_1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyfCcqiE/versions/YT1Sriuq/create_interactive-1.1.1-beta.3_1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "dd1be48f30abb5c0cbb853edc9838eb4121a73645ca4ba2c59ddef2331422b0eb7aa8aa86ed590e1773b8ca64ce156d140420381e3eabb4a97577199da45bd8d"
+
+[update]
+[update.modrinth]
+mod-id = "MyfCcqiE"
+version = "YT1Sriuq"

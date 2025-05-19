@@ -1,0 +1,13 @@
+name = "Global Datapacks"
+filename = "global-datapack-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/z3VuVeLh/global-datapack-1.2.jar"
+hash-format = "sha512"
+hash = "2391e4f574be78aeebb53bf9133dc52210aaa87b3dbefe05a4dee16993c140983322b3341fd97b6b892f992692c36fb66c69ded3b76fbb5a118c7bdb90350615"
+
+[update]
+[update.modrinth]
+mod-id = "bRa9yz7E"
+version = "z3VuVeLh"

@@ -1,0 +1,13 @@
+name = "InGameStats"
+filename = "InGameStats-1.1.0+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZhuQZavl/versions/pCl9FOuI/InGameStats-1.1.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "c2c5404c3efaa691b650892becd0cc119a9a92fb48f9a5868500b4c161452fc3cac42e1302d08aa5b2cc954b8fbd8f9a346fb6268aad6c4fed718da843da7d30"
+
+[update]
+[update.modrinth]
+mod-id = "ZhuQZavl"
+version = "pCl9FOuI"

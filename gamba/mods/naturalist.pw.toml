@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-5.0pre3+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3%2Bfabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9a833a1e664cdbc61d770afa355bd1aa4ba3d4639d0913dcb3a5ed257"
+
+[update]
+[update.modrinth]
+mod-id = "F8BQNPWX"
+version = "tx891fzz"

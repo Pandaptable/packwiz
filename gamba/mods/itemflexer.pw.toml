@@ -1,0 +1,13 @@
+name = "ItemFlexer"
+filename = "itemflexer-1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOYa13DM/versions/lNovdabi/itemflexer-1.3.1.jar"
+hash-format = "sha512"
+hash = "b892c0c2c9f98017ee622f55a003fa757d19dafe0fdbe893ed8b059b303980c6084852d00b8a1e24d0a54ad207a55ce89a2998b0d755aa4cba1e365e513b669d"
+
+[update]
+[update.modrinth]
+mod-id = "pOYa13DM"
+version = "lNovdabi"

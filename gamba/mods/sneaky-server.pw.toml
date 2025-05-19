@@ -1,0 +1,13 @@
+name = "Sneaky Server"
+filename = "sneaky-mc1.20.1-1.0.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HRXgZcrv/versions/2AJlS5P6/sneaky-mc1.20.1-1.0.10.jar"
+hash-format = "sha512"
+hash = "750c95a28d9d4f3b647461a12794fe3146e4100be797ff37d9dff36f2769738e61aac058e1f6ff0780b770a1194a18f9abb82fb726a178abf95523d9cfcc68a5"
+
+[update]
+[update.modrinth]
+mod-id = "HRXgZcrv"
+version = "2AJlS5P6"

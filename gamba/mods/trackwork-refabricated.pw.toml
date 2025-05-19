@@ -1,0 +1,13 @@
+name = "Trackwork Refabricated"
+filename = "trackwork-fabric-1.0.1-beta+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mwafJvtx/versions/Q3qF5i32/trackwork-fabric-1.0.1-beta%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "a132593b50f7b0be722cf1562ffcbdc6b8a911484cd636d9a1fbf833badcdf2500239d8281724ed8e1b7d57a0a3a0e0889c1839c3839143add9af851b5f9d3ef"
+
+[update]
+[update.modrinth]
+mod-id = "mwafJvtx"
+version = "Q3qF5i32"

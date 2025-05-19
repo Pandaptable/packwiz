@@ -1,0 +1,13 @@
+name = "VLib"
+filename = "vlib-1.20.1-0.0.9-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1UmcEMX/versions/9cQTzxaC/vlib-1.20.1-0.0.9-alpha.jar"
+hash-format = "sha512"
+hash = "3554a4c8c2addb5272017feed71d43a544a70f2fd3739ac216450fcf226c5798f8e700a642d780626cb8902622e302dd46e892122d016b8df7f442749a5d31c9"
+
+[update]
+[update.modrinth]
+mod-id = "V1UmcEMX"
+version = "9cQTzxaC"

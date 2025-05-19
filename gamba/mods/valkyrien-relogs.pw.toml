@@ -1,0 +1,13 @@
+name = "Valkyrien Relogs"
+filename = "valkyrienrelogs-shiprespawn-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zXPcyAo/versions/jyBmJ5jl/valkyrienrelogs-shiprespawn-0.3.0.jar"
+hash-format = "sha512"
+hash = "7367b6917dd7663623caca9b80aa8171e0d4a83640258be466f44f625ae96c69f2c191b597b73906848677922345b70abc70bfecb3d6e1af116452776df2324b"
+
+[update]
+[update.modrinth]
+mod-id = "8zXPcyAo"
+version = "jyBmJ5jl"

@@ -1,0 +1,13 @@
+name = "DirTNT"
+filename = "DirTNT-1.4.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zK9RT6jX/versions/dz8ZhdJ1/DirTNT-1.4.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "74f53c114218b24d6b6deae703f10d45f76686c2bf29bbd9f5b760b4a5a17029bd2c42357bbce3790424e86c327489ac3c36cd85505565830baf50294a16d304"
+
+[update]
+[update.modrinth]
+mod-id = "zK9RT6jX"
+version = "dz8ZhdJ1"

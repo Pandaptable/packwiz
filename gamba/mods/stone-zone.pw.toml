@@ -1,0 +1,13 @@
+name = "Every Compat (Stone Zone)"
+filename = "stonezone-1.20-2.8.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/6kAu5cCw/stonezone-1.20-2.8.4-fabric.jar"
+hash-format = "sha512"
+hash = "24f141f8823905dfb7329e03b5229de6c2e90bf77f0a1120774a1dc092b8cedfa2a950156aa56d971d2f0010d66361bd033f850efef6b71e5444e20edb680ca5"
+
+[update]
+[update.modrinth]
+mod-id = "uYwn8IP5"
+version = "6kAu5cCw"

@@ -1,0 +1,13 @@
+name = "Wakes Compat for Valkyrien Skies"
+filename = "vs-wakes-compat-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ujSzXmLo/versions/jiw2BlSW/vs-wakes-compat-1.1.0.jar"
+hash-format = "sha512"
+hash = "65eaaa52af5cf4aaaef4bb6b2c8ccc3fd3a40502abe7e69b184f9bb31c8942268f8f3e790afc08e675631bf5fd3f1f607e3e5ea8503f4610bf6df07cee641108"
+
+[update]
+[update.modrinth]
+mod-id = "ujSzXmLo"
+version = "jiw2BlSW"

@@ -1,0 +1,13 @@
+name = "Create: Easy Stone Generators [Forge/Fabric/NeoForge]"
+filename = "create_generators-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aeW9oim1/versions/FxsxdiVw/create_generators-1.0.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "5d60505b303ba06b5c37d22881566cfc420dd1463f6095e057213508a9e9af10c1521c0d31cc311a93a5c2a55595c74c00e68d79e9621555ed982058d9fad14f"
+
+[update]
+[update.modrinth]
+mod-id = "aeW9oim1"
+version = "FxsxdiVw"

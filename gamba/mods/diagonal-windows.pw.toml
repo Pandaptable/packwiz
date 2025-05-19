@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/mwIl45jn/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "b575ba4e88e5f2af123b560e41f6116e1ac191e8b9a9b7d45dcc7eb9b2a6572f718328694cbad595ed2d704e465098f1fd9c0157db801aefff5a3c320faf3ada"
+
+[update]
+[update.modrinth]
+mod-id = "oOi0CKes"
+version = "mwIl45jn"

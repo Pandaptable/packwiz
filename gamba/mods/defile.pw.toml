@@ -1,0 +1,13 @@
+name = "Defile"
+filename = "defile-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfvI9QGt/versions/lxt2QwZh/defile-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "64de7370b30a47ed91691c54d8706b9b36df16a62e930f202115c9b394427a0c727e61160273e7ab454ea457d5b819928e962884c052f07fe7f67d312b1c6965"
+
+[update]
+[update.modrinth]
+mod-id = "DfvI9QGt"
+version = "lxt2QwZh"

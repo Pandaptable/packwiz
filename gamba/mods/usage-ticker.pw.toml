@@ -1,0 +1,13 @@
+name = "Usage Ticker"
+filename = "usageticker-1.0.1-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VtrwU3N0/versions/4dzca57C/usageticker-1.0.1-1.20.jar"
+hash-format = "sha512"
+hash = "bbf735f91636597227ae539d272ffb3d122d7988ca9d4337963cd2debaed4542d514904b43c38e230edc3e228ef771c0c23450db2ecbec39986495fc0fb25377"
+
+[update]
+[update.modrinth]
+mod-id = "VtrwU3N0"
+version = "4dzca57C"

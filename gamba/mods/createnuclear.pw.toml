@@ -1,0 +1,13 @@
+name = "Create Nuclear"
+filename = "createnuclear-1.2.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z611fdf7/versions/hhdxGtvQ/createnuclear-1.2.1-fabric.jar"
+hash-format = "sha512"
+hash = "84922af54f3d86f50fafb0f228201f222e7f6516fbcc46a8667a9365e9063b9250fa0501e5a83ab4e8afc25c480fd25cfe4f3b0ce9419eedeb202a08d7372637"
+
+[update]
+[update.modrinth]
+mod-id = "z611fdf7"
+version = "hhdxGtvQ"

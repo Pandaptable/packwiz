@@ -1,0 +1,16 @@
+name = "Gambling Addict Manufacturing Pack"
+author = "nemmy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce64aa221bd40e8f345df8ed8d466a466d4980f998dc86cd3303b9232fd37dbb"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks"

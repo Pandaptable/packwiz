@@ -1,0 +1,13 @@
+name = "Grappling Hook Mod: Restitched"
+filename = "grapplemod-1.99.0+1.20.1.beta.fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f4hp6FTb/versions/jVjsFtrx/grapplemod-1.99.0%2B1.20.1.beta.fabric.jar"
+hash-format = "sha512"
+hash = "b91eae3ddfba21d1fadcdbb103386e59a8a296a35cc75bc2c27ab09a64df1dfbf197853639b194dc1465bd191ea68f5b31694aa8a176800c064c3504736ad845"
+
+[update]
+[update.modrinth]
+mod-id = "f4hp6FTb"
+version = "jVjsFtrx"

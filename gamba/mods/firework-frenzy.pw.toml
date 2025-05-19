@@ -1,0 +1,13 @@
+name = "Firework Frenzy"
+filename = "fireworkfrenzy-1.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BMFTOutp/versions/6KiUZrIT/fireworkfrenzy-1.15.0.jar"
+hash-format = "sha512"
+hash = "1dc1ff72fa5acc40f4f62412411b4e2f1201e3a0204572f70677bbf51dc50038f8afda21cb9a0162fbf4698f9961d3dab10510eb7e00f42405a4e622d8f9637e"
+
+[update]
+[update.modrinth]
+mod-id = "BMFTOutp"
+version = "6KiUZrIT"

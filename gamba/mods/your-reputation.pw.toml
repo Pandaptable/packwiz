@@ -1,0 +1,14 @@
+name = "Your Reputation"
+filename = "your-reputation-0.2.4+jade.1.20.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/MrLyhFlg/versions/gDiKwohD/your-reputation-0.2.4%2Bjade.1.20.jar"
+hash-format = "sha512"
+hash = "5f2aea9164afe63cf517d1a5a136ff1e1483ab353d3b81984a16e19c8bcbcb70b7042ed308e13434ddde3207131c4b36921d215742d7f54f6c0871e05e2e2c4b"
+
+[update]
+[update.modrinth]
+mod-id = "MrLyhFlg"
+version = "gDiKwohD"

@@ -1,0 +1,13 @@
+name = "CC: VS"
+filename = "cc_vs-1.20.1-fabric-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/j3LMADQo/cc_vs-1.20.1-fabric-0.2.2.jar"
+hash-format = "sha512"
+hash = "8d29006ccef8541f9e737d3b78c2d85f05537d1c6429c698f8096146b49cdf213de676871e0bd2c48d88b3ee01e5bebabad384423f23d0aa42d4b1dbac50303a"
+
+[update]
+[update.modrinth]
+mod-id = "bvgy8HrZ"
+version = "j3LMADQo"

@@ -1,0 +1,13 @@
+name = "Create x Valkyrien Skies Clockwork Survival support"
+filename = "VS_ClockworkSurvivalSupport.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fowZjVlu/versions/Ein3oyBC/VS_ClockworkSurvivalSupport.zip"
+hash-format = "sha512"
+hash = "d53d5fe74f5e256c2d88345ec558f224f01258b67dd535ef29c357ee654e1540f65e44a59d20dd4a652b9cfce79a36f4de4f8a498dee21b1aa33c2560b9c78a0"
+
+[update]
+[update.modrinth]
+mod-id = "fowZjVlu"
+version = "Ein3oyBC"

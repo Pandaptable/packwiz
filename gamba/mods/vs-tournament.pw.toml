@@ -1,0 +1,13 @@
+name = "VS: Tournament"
+filename = "tournament-1.20.1-fabric-1.1.0_beta-5.3+af35b3821f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jIVvzR1C/versions/3s7UZs1l/tournament-1.20.1-fabric-1.1.0_beta-5.3%2Baf35b3821f.jar"
+hash-format = "sha512"
+hash = "cc75e46e7a4f9114a010aa3cf898525cfa63f9874fcc0ce7fd5ea500a0a192eb4eafa58f335dac170e2647284b3326b88e34ac354b3108a9a703802bdfd28290"
+
+[update]
+[update.modrinth]
+mod-id = "jIVvzR1C"
+version = "3s7UZs1l"

@@ -1,0 +1,13 @@
+name = "VS Grapples"
+filename = "vsgrapples-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L19b9u25/versions/i2ZHMfC9/vsgrapples-0.1.0.jar"
+hash-format = "sha512"
+hash = "43d294b8a0cda597ae3172cae7b9c390ba9d2045ec63cfd28e1899bc4af9442deecd25fff95c987775535c877e0387b766f697abff8745cd97e41dbf45332ada"
+
+[update]
+[update.modrinth]
+mod-id = "L19b9u25"
+version = "i2ZHMfC9"

@@ -1,0 +1,13 @@
+name = "Create: Broken Bad Fabric"
+filename = "createbb1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar"
+hash-format = "sha512"
+hash = "ae80bbc4a7a72e0e268f83a2b19819ce15a348c238ef0af046b34eb3f52efbeba5bc1a775b184f7a9b788ee403cb8254a76a49431d8ea905c1169ab46f41f7cf"
+
+[update]
+[update.modrinth]
+mod-id = "uIfluo9C"
+version = "5Ibh9a9W"

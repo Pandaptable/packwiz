@@ -1,0 +1,13 @@
+name = "Clockwork"
+filename = "clockwork-1.20.1-0.1.16-fabric-b3b22e39fe.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/84USeAvk/versions/EvNWNIMY/clockwork-1.20.1-0.1.16-fabric-b3b22e39fe.jar"
+hash-format = "sha512"
+hash = "a8e86135020f70e6244381a9f0a329fff8965b53e37c2309a4d9e96a93de9db2c2aef2832af73dd5c85bfee4661f9d169c34a1ee53de4a030fa9867298db9095"
+
+[update]
+[update.modrinth]
+mod-id = "84USeAvk"
+version = "EvNWNIMY"

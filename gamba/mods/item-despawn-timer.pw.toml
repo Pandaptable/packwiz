@@ -1,0 +1,13 @@
+name = "Item Despawn Timer"
+filename = "item-despawn-timer-0.1.2-1.19.4-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PB3ZJCO/versions/RzspernE/item-despawn-timer-0.1.2-1.19.4-1.20.4.jar"
+hash-format = "sha512"
+hash = "9f4eaf5d10bec500200e4c8599b9a55cd476de4fada8348712debfdb259f521d7b4ec0df23b0ec60be2a4596c726a840048315efb92f309fba287406ef47fa07"
+
+[update]
+[update.modrinth]
+mod-id = "6PB3ZJCO"
+version = "RzspernE"

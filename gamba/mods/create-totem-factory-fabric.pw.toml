@@ -1,0 +1,13 @@
+name = "Create: Totem Factory [UNOFFICIAL FABRIC PORT]"
+filename = "totemfactory-1.2-OG1.0m.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/phgmRypS/versions/RfY26GxU/totemfactory-1.2-OG1.0m.jar"
+hash-format = "sha512"
+hash = "88df86669cb10735172e07e5330a6a9b0694f9edd41604d4c27565eff4246597694d13fbae3239327b2a086ab07f0c253e5d5b9202b39a8bb946f0a8a5604d2a"
+
+[update]
+[update.modrinth]
+mod-id = "phgmRypS"
+version = "RfY26GxU"

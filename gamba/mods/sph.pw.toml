@@ -1,0 +1,13 @@
+name = "Simple Player Heads"
+filename = "sph-1.20.1-2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DtPmECgo/versions/8gSpHVYC/sph-1.20.1-2.0.jar"
+hash-format = "sha512"
+hash = "cdff2b2acf72005f3f03cec903e6a2826930c4d4b3af6051c3540831e02a11d60cd495ef6fe7f32f218af0af41ad8e60111391e250747efeb117a34f7df1e3b2"
+
+[update]
+[update.modrinth]
+mod-id = "DtPmECgo"
+version = "8gSpHVYC"

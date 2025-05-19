@@ -1,0 +1,13 @@
+name = "Create x End Remastered Recipes"
+filename = "create-endremastered-recipes-1.2-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/x4BNCvGr/versions/S5BG6yzt/create-endremastered-recipes-1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "30c3e46a7a6a442a532aa0d2bea93cbb0d8607a0643fc288d47ff288282a3c548225061ade207972700538a29076185ac0a9275ff034548e763f42f74f2ca80a"
+
+[update]
+[update.modrinth]
+mod-id = "x4BNCvGr"
+version = "S5BG6yzt"

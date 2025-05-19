@@ -1,0 +1,13 @@
+name = "Figura GoofyPlugin"
+filename = "goofyfiguraplugin-1.0.5+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Gr9eipi/versions/jjEAtmHG/goofyfiguraplugin-1.0.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "15b2a6dabb30ed3fc3b3276ecd84e5bca609469da34ce9e8004c5c796a9dfc57c513770fd0bdfce0cd584d9812cbb44a60e77171b650ddc91cfcde2214d9c74d"
+
+[update]
+[update.modrinth]
+mod-id = "1Gr9eipi"
+version = "jjEAtmHG"

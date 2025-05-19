@@ -1,0 +1,13 @@
+name = "Allow editing player`s nbt!"
+filename = "alloweditingplayersnbt-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCPMWKXS/versions/sj9ZPFzP/alloweditingplayersnbt-1.0.0.jar"
+hash-format = "sha512"
+hash = "ad972e3842e32f8766082b1d6114385848a3aaee85d48debcac45666cf56aeda3b9fb67c987e75d8808b53df29b3105d33da5aa2c6bdd51e3d1adefd2bed41f7"
+
+[update]
+[update.modrinth]
+mod-id = "UCPMWKXS"
+version = "sj9ZPFzP"

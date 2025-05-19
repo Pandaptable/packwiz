@@ -1,0 +1,13 @@
+name = "Pick Your Poison"
+filename = "pickyourpoison-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EHjFQKek/versions/INN0iDW3/pickyourpoison-1.1.1.jar"
+hash-format = "sha512"
+hash = "db2a5799bdedf7fc9e17197e43ee9f770c2571478f186d18ffb83bb69b6e32f58e47900246646932dd0c977cc1238489e98285883c81403da215b7e22ded5d86"
+
+[update]
+[update.modrinth]
+mod-id = "EHjFQKek"
+version = "INN0iDW3"

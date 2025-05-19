@@ -1,0 +1,13 @@
+name = "Valkyrien Skies 2 + Supplementaries Cannon Fix"
+filename = "VS2+Sup-Fix-1.20.1-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lvoGABiq/versions/awVQ1fWJ/VS2%2BSup-Fix-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "13773cc55c380a7cb1969f9d9a9c8c8a2ad4102b0059459a48b4d8949bd622957caf3ae2135014652de7e587f2b68abe9e706eb22f5881ea40a8a52fcdca9a6d"
+
+[update]
+[update.modrinth]
+mod-id = "lvoGABiq"
+version = "awVQ1fWJ"

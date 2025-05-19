@@ -1,0 +1,13 @@
+name = "Effective"
+filename = "effective-2.3.2-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/vwgKoecR/effective-2.3.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "8e1a74ffc8fada2b2bde59e5d51e5964591ad0b6a17fa128ed4215b9d5b654533c3d39dcb1b4461d9febd4dae2406e856eb4c1f3360e453de33200a364958308"
+
+[update]
+[update.modrinth]
+mod-id = "pcPXJeZi"
+version = "vwgKoecR"

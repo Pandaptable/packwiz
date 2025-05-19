@@ -1,0 +1,13 @@
+name = "LOD Entity Rendering"
+filename = "lodentityrendering-fabric-1.0.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EUtzxmSy/versions/JmyFgdol/lodentityrendering-fabric-1.0.2%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "2f50e1bd2cc7bae53a9eb95ea1a71a2cb801d41932b2efe97c0615dcf21b78bcdbb1083d7db26fcdcd56f7cc9591f932d3ad2d4e9e8e9a8e29a624b2fe632181"
+
+[update]
+[update.modrinth]
+mod-id = "EUtzxmSy"
+version = "JmyFgdol"

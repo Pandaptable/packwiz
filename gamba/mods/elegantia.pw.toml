@@ -1,0 +1,13 @@
+name = "Elegantia"
+filename = "elegantia-0.0.1-beta+1.20-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3SldlwAN/versions/WVlGOVnv/elegantia-0.0.1-beta%2B1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "cdeb86b72ab374fc0db5943f08ac63bf258afcffc2e9d6b7d41a134bc15b12180441e4ea4dbc813fe7c08ef9f890deb2b8986cd4b0c0cbf948c20a148e870aa9"
+
+[update]
+[update.modrinth]
+mod-id = "3SldlwAN"
+version = "WVlGOVnv"

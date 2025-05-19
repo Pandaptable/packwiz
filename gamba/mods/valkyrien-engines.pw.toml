@@ -1,0 +1,13 @@
+name = "Valkyrien Engines"
+filename = "ValkyrienEngines-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WT3PPW1/versions/PprmQAOm/ValkyrienEngines-1.0.2.jar"
+hash-format = "sha512"
+hash = "6c358424857e3650ccbf1c9f7c70c4432e31692ceb4c175471050ddb10352d6405354c12d4b1b416afdb32023a95c3c317a36e577564d487dd44e6484a17e39a"
+
+[update]
+[update.modrinth]
+mod-id = "3WT3PPW1"
+version = "PprmQAOm"

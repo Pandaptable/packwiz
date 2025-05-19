@@ -1,0 +1,13 @@
+name = "WNT"
+filename = "WNT-2.0-alpha.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yqy9rd0d/versions/v0h7msOo/WNT-2.0-alpha.13.jar"
+hash-format = "sha512"
+hash = "534dbebbadb72d361036410f20be6a66174d355a1852901cac66ee0815d4ed8eb709e6c1723bd2dd4c8ddf6629e32ff8d20759a588d518742f6844cee00fb439"
+
+[update]
+[update.modrinth]
+mod-id = "Yqy9rd0d"
+version = "v0h7msOo"

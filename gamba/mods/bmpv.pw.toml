@@ -1,0 +1,13 @@
+name = "BlueMap Player Visibility"
+filename = "bmpv-1mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbJwgakQ/versions/E9ePCaku/bmpv-1mc1.20.1.jar"
+hash-format = "sha512"
+hash = "0a6d8ecad8846a2b016c9a87c4d061234b64388365e0d7b2589d7959bab30046566a897f48da165e80bcdcd2e3bfc5f5accc2880acbe52901f235776c8b06ef6"
+
+[update]
+[update.modrinth]
+mod-id = "sbJwgakQ"
+version = "E9ePCaku"

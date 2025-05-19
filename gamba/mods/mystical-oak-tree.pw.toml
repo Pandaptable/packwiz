@@ -1,0 +1,13 @@
+name = "Mystical Oak Tree"
+filename = "mysticaloaktree-1.20-1.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUma2vmY/versions/bfCjSjSy/mysticaloaktree-1.20-1.11-fabric.jar"
+hash-format = "sha512"
+hash = "f0d06e016ca3d32b0ffbede2d5acc86a8cb515c7de115899ee20c110b26caf8f3489be9b68c61b23ae1ad9e3adaf5f7a70c74a93e5cb10f74a48f366285e7742"
+
+[update]
+[update.modrinth]
+mod-id = "eUma2vmY"
+version = "bfCjSjSy"

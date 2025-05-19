@@ -57,18 +57,6 @@ file = "config/yosbr/config/sit!/server-config.json"
 hash = "3902153b74681942a8e23991b99272e98c4461c7b81e4a2b9ddaa33f7dad3277"
 
 [[files]]
-file = "config/yosbr/config/valkyrienskies/vs_clockwork_server.json"
-hash = "a2c4d593cf0ab25dd77ad61e7371fb8463288583d2ceca05e17e7c5ea67af84c"
-
-[[files]]
-file = "config/yosbr/config/valkyrienskies/vs_common.json"
-hash = "3f5b97dfbbdabd094d3b3909da95fa59dac0c75f89f955c5fd1e33295f12ca8b"
-
-[[files]]
-file = "config/yosbr/config/valkyrienskies/vs_core_server.json"
-hash = "a82268dff015e406d87184b295b0c41258648d9561b32e862e6d0135c6a0e346"
-
-[[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
 hash = "ee36381fde450d2eff4e2771886d2210a4d4303c498d9b516808d7409bed6b18"
 

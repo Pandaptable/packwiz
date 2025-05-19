@@ -166,11 +166,6 @@ hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
 metafile = true
 
 [[files]]
-file = "mods/blahaj.pw.toml"
-hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
-metafile = true
-
-[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "47237935ab1dbb9fd99f831bdb3d6773ae8c7d3aa00bab06501c6cbd6fcfa5d4"
 metafile = true

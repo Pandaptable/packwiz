@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "c14318e07b2f43246b24e787ed38366309bcb063f62d1173f323a8578b054688"
+hash = "abc9b72e8e68b9ee1806e40de94f4831031fd63fc1d430d0cc79384b0f8c5d5f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/couplings.pw.toml"
-hash = "766447e84d20e5376d9f72392880120b41c708df9988612f92a36826d1536c23"
+hash = "963b5ff9b13cd06fc06f04a6941abc49bc778634e705f39ae47e5a9f3d59b97d"
 metafile = true
 
 [[files]]
 file = "mods/craft-slabs-back-into-blocks.pw.toml"
-hash = "130c7402b0282223720d8ff5df729bd4b4011fcef8528ccab0b711af94de895b"
+hash = "28a2cb274249ed0b4837bc303ab61855e2e3d44842964daaba34e57af118c09c"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/createrem.pw.toml"
-hash = "ed44b36809ace8429897903258cab44766b214291054b5b7be172a446bc21aaa"
+hash = "b041cfacb350bfc437a7cdef278adc023207a198548c1a1fb8c285ebf196b839"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-vs.pw.toml"
-hash = "19fcdf15fa4ca7fe90499a1b8f949fbe74b5cd43dc1c915de7653f3c109a5246"
+hash = "52b5eac63ab7754a0c8a6aaed2eac5ee84d711d2a6e5f2f90c498ac96742894f"
 metafile = true
 
 [[files]]
@@ -1011,6 +1011,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "3159f65be74fdf8c382f2079d9db965972c8612e661f126be522ae37a73c34f8"
+metafile = true
+
+[[files]]
 file = "mods/simple-uncrafting-table.pw.toml"
 hash = "a2a6c0ba546fca046b70c577ef96fbd290ca8b10d0ffc6de206ae10a9014d0f4"
 metafile = true
@@ -1022,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "6c589a382cb120384251f13aa66c5753add2312b0f5de1820caa781c8a4940d8"
+hash = "df6bc2a6f68423948950e88e5f40fa9c71e76a55e6a962611969b1868d3ba8b9"
 metafile = true
 
 [[files]]
@@ -1172,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies-2-+-supplementaries-cannon-fix.pw.toml"
-hash = "87967d7fa1114df18719d933a39032bb6a0bda6638d31d01d1425ee1ac606226"
+hash = "24b8e1cc683f4e4d16e9297eb2bf5d4a62721e2eadff8c3b5b138da936725103"
 metafile = true
 
 [[files]]

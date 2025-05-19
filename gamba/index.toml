@@ -69,14 +69,6 @@ file = "config/yosbr/config/valkyrienskies/vs_core_server.json"
 hash = "a82268dff015e406d87184b295b0c41258648d9561b32e862e6d0135c6a0e346"
 
 [[files]]
-file = "config/yosbr/config/valkyrienskies/vs_eureka_server.json"
-hash = "9d71aefcbf9c9d03172d7c5100b1dc73aa6555428048b756d0a55884c8d41f1b"
-
-[[files]]
-file = "config/yosbr/config/valkyrienskies/vs_server.json"
-hash = "12b193cfc993f18b5216aac5958e074dd1daa270d937a8a409a2728473e42fbf"
-
-[[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
 hash = "ee36381fde450d2eff4e2771886d2210a4d4303c498d9b516808d7409bed6b18"
 

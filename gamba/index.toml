@@ -551,6 +551,11 @@ hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "180cf54939ba1316f67960486cdc9da00d805f8511f12169af38719323a8e291"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true

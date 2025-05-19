@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "2e9f6742dd59740c24317ee68076a94789d32a1f258a2b770ba72c1c40a4beb2"
+hash = "0ec2d611bc3407c0c0fcfc7b0f75397e2e0561daf96c286ae6478d571e5403cf"
 metafile = true
 
 [[files]]
@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+hash = "ddd37f4bf3fa0276351911e72b412ebb4de271ce802c1c7b89df0bf321417eb0"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Valkyrien Skies 2 + Supplementaries Cannon Fix"
 filename = "VS2+Sup-Fix-1.20.1-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lvoGABiq/versions/awVQ1fWJ/VS2%2BSup-Fix-1.20.1-1.2.jar"

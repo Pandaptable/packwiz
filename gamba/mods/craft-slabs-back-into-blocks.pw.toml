@@ -1,6 +1,6 @@
 name = "Craft Slabs Back Into Blocks"
 filename = "slabstoblocks-fabric-1.20.1-2.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8MosnjaC/versions/SIHLRjey/slabstoblocks-fabric-1.20.1-2.3.jar"

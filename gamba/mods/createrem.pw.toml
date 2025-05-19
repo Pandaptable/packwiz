@@ -1,6 +1,6 @@
 name = "Create x End Remastered Recipes"
 filename = "create-endremastered-recipes-1.2-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/x4BNCvGr/versions/S5BG6yzt/create-endremastered-recipes-1.2-1.20.1.jar"

@@ -1226,11 +1226,6 @@ hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
 metafile = true
 
 [[files]]
-file = "mods/wiretap.pw.toml"
-hash = "3320e07b4aebddabbfce6e0e2f2d0e698680ec9d561e1f401cb06fe09efc3461"
-metafile = true
-
-[[files]]
 file = "mods/wnt.pw.toml"
 hash = "397c996d1072ad4ec75e94b8ae3c218c833364082e525a5f8f1a09386387082b"
 metafile = true

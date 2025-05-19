@@ -1206,16 +1206,6 @@ hash = "77ffd6ba5193724cc2b4344675ea3ca726bd7ec1211225e1111c20043152ca9c"
 metafile = true
 
 [[files]]
-file = "mods/vs-wakes-compat.pw.toml"
-hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
-metafile = true
-
-[[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
 metafile = true

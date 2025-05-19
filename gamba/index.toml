@@ -161,11 +161,6 @@ hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
-metafile = true
-
-[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "47237935ab1dbb9fd99f831bdb3d6773ae8c7d3aa00bab06501c6cbd6fcfa5d4"
 metafile = true
@@ -897,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
-hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
+hash = "a01abd443549e714fac276f8a4d1fc4a4ecd042dc64bf988b4591fd5d4a472cc"
 metafile = true
 
 [[files]]

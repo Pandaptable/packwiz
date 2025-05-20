@@ -5,6 +5,10 @@ file = "config/enchancement.json"
 hash = "5a038101a250aa41d5741a149e7f0ff9c64c55c0956dc9345bb5d30af8cde3ab"
 
 [[files]]
+file = "config/iris.properties"
+hash = "84a3e46b8e2bc99fe88881b9976926c86dbaaa8add24779508c9aef0b00b5400"
+
+[[files]]
 file = "config/mod-loading-screen/background.png"
 hash = "7ee2a61665f4d570b5805e30666d8b23753739eba0f4948478a455ed13b83ad9"
 

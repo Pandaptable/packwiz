@@ -746,11 +746,6 @@ hash = "a8d06087b85c115c2d67107293e761b828bc1ec4be754cf09f77419c530ed6ad"
 metafile = true
 
 [[files]]
-file = "mods/immersive-winds.pw.toml"
-hash = "7ae0bacb27a57695fd5a91e73e2e63941ab0e9c67fba38c9b63ddc0c7c0ffc48"
-metafile = true
-
-[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
 metafile = true
